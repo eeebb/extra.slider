@@ -30,12 +30,8 @@
 		
 		<!-- MOBILE FRIENDLY -->      
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<<<<<<< HEAD
-        
+		
         <meta property="og:image" content="http://slider.extralagence.com/demo/img/facebook.jpg" />
-=======
->>>>>>> 3d09f56452250429642777225733e8ce26d299a4
-
 
 		<link rel="stylesheet" href="<?php echo $root; ?>css/extra.slider.css">
 		<link rel="stylesheet" href="<?php echo $root; ?>demo/css/main.css">
