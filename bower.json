@@ -1,0 +1,25 @@
+{
+  "name": "extra.slider",
+  "version": "1.1",
+  "description": "Simple slider powered by GSAP",
+  "main": [
+    "./js/extra.slider.min.js",
+    "./css/extra.slider.css"
+  ],
+  "dependencies": {
+    "jquery": "*",
+    "gsap": "*"
+  },
+  "ignore": [
+    "demo",
+    "*.php",
+    "*.ico"
+  ],
+  "repository" :
+  { 
+    "type" : "git",
+    "url" : "https://github.com/eeebb/extra.slider.git"
+  }
+
+}
+
